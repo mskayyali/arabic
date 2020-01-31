@@ -1,40 +1,26 @@
 ---
 layout: post
-title: Introducing Poole
+title: عن الهايبرتكست وولادة الأفكار اللاخطية
+published: true
 ---
+نمر اليوم على القفزات المعرفية المتسارعة التي اجتاحت العالم بعيد الحرب العالمية الثانية بشكل سريع في عصرنا الحالي. قفزات علمية وتكنولوجية لا نزال نحصد ثمارها لليوم. لكن الواقع أن هذه التطورات لم تكن بهذه الرومنسية التي ننظر لها الآن. على العكس تماماً، كان الواقع آنذاك مرتبكاً، يبحث عن إجابات لأسئلة كالحرب والصراع والتطور والمعلومات والمعرفة.
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+أحد أشهر هؤلاء العلماء كان شخصية تورطت في الحرب وعرفت فظائعها. إنه العالم ڤانيڤار بوش Vannevar Bush مدير مشروع مانهاتن في الولايات المتحدة، مشروع تطوير القنبلة الذرية. واحد من الأمور الرئيسية هنا هو الصحوة التي أصابت العلماء بعد الحرب ومحاولتهم لإعادة النظر في الإنسان وسعيه وراء القوة بدلاً من المعرفة، ولذلك كان له دور رئيسي في مشروع يحاول تقديم المعلومات بشكل جديد بحيث يتشاركها جميع البشر بهدف التقدم للأمام.
 
------
+نتيجة أفكاره كانت في مقال مطول على مجلة The Atlantic بعنوان As We May Think أو كما يمكن لنا أن نفكّر. مقال ثوري وصف فيه جهازاً أسماه الميمكس Memex، جهاز قادر على تخزين وفهرسة أي كتاب أو وثيقة أنتجتها البشرية. 
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+فكرة آلة تشمل العقل الجمعي للبشرية وذاكرتها ليست جديدة. كان كاتب الخيال العلمي إتش جي ويلز H. G. Wells. قد تحدث عن فكرة مشابهة في مجموعة مقالات له تحمل اسم "دماغ العالم World Brain". ولم يكن ويلز الوحيد أيضاً فكان هناك أوتليه الذي تحدث عنه في مقال سابق والروائي الأرجنتيني جورج لويس بورجيس Jorge Luis Borges.
 
-There are currently two themes built on Poole:
+مقال As We May Think كان ثورياً لمرحلة أن آباء الإنترنت والويب اليوم تأثروا بالمقال بشكل أو بآخر. أسماء مثل تيد نيلسن Ted Nelson و دوغلاس إنغلبارت Douglas Englebart. سأقوم بنشر ترجمة المقال لاحقاً لكن إليكم مقطعاً رئيسياً يشرح تصور بوش للميمكس:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+لنفترض أداة مستقبلية للاستخدام الشخصي كنوع من المجلد أو المكتبة الممكننة وكاسم لها سنختار بشكل عشوائي ميمكس. الميمكس Memex هو أداة يستطيع الفرد من خلالها تخزين كتبه وسجلاته واتصالاته وهي ممكنة بحيث يمكن الرجوع إليها بسرعة كبيرة ومرونة.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+....
 
-### What's included
+تأتي هذه الآلة على شكل مكتب، ومن المفترض أن تكون قابلة للاستخدام عن بعد. هي في المقام الأول قطعة من الأثاث تعمل عليها. يوجد في الأعلى شاشات شفافة مائلة للقراءة المريحة. تحوي الآلة لوحة مفاتيح ومجموعة من الأزرار والأذرع. خلاف لذلك تبدو كمكتب عادي. في أحد أطرافها توجد المواد المخزنة. تعالج مسألة الحجم الكبير عن طريق ميكروفلم محسّن. جزء صغير من داخل الميمكس مخصص للتخزين.
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it, includes the following:
+ڤانيڤار بوش> We loved with a love that was more than love
 
-* Complete Jekyll setup included (layouts, config, [404]({{ site.baseurl }}/404.html), [RSS feed]({{ site.baseurl }}/atom.xml), posts, and [example page]({{ site.baseurl }}/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+قبل أن يكون مديراً في معهد ستانفورد للأبحاث Director of the Augmentation Research Center at Stanford Research Institute كان دوغلاس إنغلبارت عامل رادار شاب خلال حياته العسكرية التي اطلع خلالها على مقال بوش وكان له تأثيراً كبيراً عليه لدرجة أنه أدى لعمله على مايسمى بـ NLS أو oNLine System وهو أول تطبيق عملي لأفكار الميمكس والمرتبط بشكل رئيسي بواجهة المستخدم الرسومية. كان هذا عام 1962. في نفس الوقت أيضاًَ كان طالب هارفارد تيد (ثيودور) نيلسن يعمل على فكرة ثورية تقوم على فضاء معلوماتي تتحرر فيه الكتابة من الورق. رؤية أخرى للويب قبل 30 عام من الويب.
 
-Additional features are available in individual themes.
-
-### Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Poole is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+لم يرى مشروع نيلسن الذي أسماه Xanadu النور ولايزال فكرة مجردة، لكن ما بقي هو تعبير استخدمه نيلسن وهو الهايبرتكست أو النص التشعبي Hypertext. تعبير أصبح عصباً للإنترنت والويب ونظام المعلومات المعاصر.
